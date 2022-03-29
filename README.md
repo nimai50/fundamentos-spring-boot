@@ -1,1 +1,1 @@
-# fundamentos-spring-boot
+# java-spring-boot-basics
